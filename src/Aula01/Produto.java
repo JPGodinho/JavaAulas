@@ -1,3 +1,5 @@
+package Aula01;
+
 public class Produto {
 
     double preco;
