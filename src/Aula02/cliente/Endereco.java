@@ -13,6 +13,8 @@ public class Endereco {
         this.bairro = bairro;
         this.cidade = cidade;
         this.cep = cep;
+
+        System.out.println(mostrarCompleto());
     }
 
     public String getRua() {
